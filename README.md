@@ -4,13 +4,15 @@ KMNIST Classification Problem using Multi-Layer Perceptron (MLPs) and Convolutio
 This work is presented as a project for EEL6814 – Deep Learning Course. Over the last few decades, deep neural networks have proved very powerful in handling big data. In pattern recognition, particularly image problems, deep learning’s performance surpasses classical machine learning in accuracy. The Multilayer Perceptron (MLP) and the
 Convolutional Neural Network (CNN) are two of the most popular deep learning architectures for classification. We present the two networks’ performance to classify the Japanese KMNIST data set. In this report, we test the performance of different MLP and CNN architectures on the data set. We further tune hyperparameters and investigate how different parameters affect the classification efficiency.
 
-KMNIST classification assesment using Multilayer perceptron and Convolutional Neural Netwrks
+Paper: [KMNIST classification assesment using Multilayer perceptron and Convolutional Neural Netwrks](https://gijunglee.github.io/assets/KMNIST - project 1.pdf)
 
 ## Results
 CNN Train and test results
-![result1](/data/Picture1.png)
+<img src="/data/Picture1.png" width="1000" height="1000">
 
 Result (includes Cnn, Different models, Different Optimizers)
+
+<img src="/data/Picture2.png" width="1000" height="1000">
 ![result2](/data/Picture2.png)
 
 ## Dataset
