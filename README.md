@@ -7,10 +7,11 @@ Convolutional Neural Network (CNN) are two of the most popular deep learning arc
 Paper: [KMNIST classification assesment using Multilayer perceptron and Convolutional Neural Netwrks](https://gijunglee.github.io/assets/KMNIST - project 1.pdf)
 
 ## Results
-CNN Train and test results
+**CNN Train and test results**
+
 <img src="/data/Picture1.png" width="1000" height="700">
 
-Result (includes Cnn, Different models, Different Optimizers)
+**Result (includes Cnn, Different models, Different Optimizers)**
 
 <img src="/data/Picture2.png" width="1000" height="500">
 
